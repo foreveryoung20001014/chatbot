@@ -97,7 +97,6 @@ def chatroom():
     root.resizable(0, 0)
     root.mainloop()
 
-# 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
 def chat():
     API = enterkey()
     openai.api_key = API
